@@ -1,0 +1,11 @@
+C:\Users\Zeny Lucas\Documents\Termomecânica\Algoritmos 1\Trabelho\Trabelho\bin\Debug\netcoreapp3.1\Trabelho.exe
+C:\Users\Zeny Lucas\Documents\Termomecânica\Algoritmos 1\Trabelho\Trabelho\bin\Debug\netcoreapp3.1\Trabelho.deps.json
+C:\Users\Zeny Lucas\Documents\Termomecânica\Algoritmos 1\Trabelho\Trabelho\bin\Debug\netcoreapp3.1\Trabelho.runtimeconfig.json
+C:\Users\Zeny Lucas\Documents\Termomecânica\Algoritmos 1\Trabelho\Trabelho\bin\Debug\netcoreapp3.1\Trabelho.runtimeconfig.dev.json
+C:\Users\Zeny Lucas\Documents\Termomecânica\Algoritmos 1\Trabelho\Trabelho\bin\Debug\netcoreapp3.1\Trabelho.dll
+C:\Users\Zeny Lucas\Documents\Termomecânica\Algoritmos 1\Trabelho\Trabelho\bin\Debug\netcoreapp3.1\Trabelho.pdb
+C:\Users\Zeny Lucas\Documents\Termomecânica\Algoritmos 1\Trabelho\Trabelho\obj\Debug\netcoreapp3.1\Trabelho.csprojAssemblyReference.cache
+C:\Users\Zeny Lucas\Documents\Termomecânica\Algoritmos 1\Trabelho\Trabelho\obj\Debug\netcoreapp3.1\Trabelho.AssemblyInfoInputs.cache
+C:\Users\Zeny Lucas\Documents\Termomecânica\Algoritmos 1\Trabelho\Trabelho\obj\Debug\netcoreapp3.1\Trabelho.AssemblyInfo.cs
+C:\Users\Zeny Lucas\Documents\Termomecânica\Algoritmos 1\Trabelho\Trabelho\obj\Debug\netcoreapp3.1\Trabelho.dll
+C:\Users\Zeny Lucas\Documents\Termomecânica\Algoritmos 1\Trabelho\Trabelho\obj\Debug\netcoreapp3.1\Trabelho.pdb
